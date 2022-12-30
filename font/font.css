@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Facundo";
+  src: url("Facundo-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Facundo-Woff";
+  src: url("Facundo-Regular.woff") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Facundo-Woff-2";
+  src: url("Facundo-Regular.woff2") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
