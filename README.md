@@ -33,7 +33,7 @@ NETWORK построена с использованием передовых т
 
 ## Установка и запуск
 
-Проект "NETWORK" развернут и доступен по следующей ссылке: [https://example-network-app.com](https://dmitrlev.github.io/network/)
+Проект "NETWORK" развернут и доступен по следующей ссылке: [https://dmitrlev.github.io/network/](https://dmitrlev.github.io/network/)
 
 Для установки и запуска приложения на вашем локальном компьютере выполните следующие шаги:
 
