@@ -30,9 +30,10 @@ NETWORK построена с использованием передовых т
 
 - Frontend: React.
 - Backend: Node.js.
-- База данных: MongoDB.
 
 ## Установка и запуск
+
+Проект "NETWORK" развернут и доступен по следующей ссылке: [https://example-network-app.com](https://dmitrlev.github.io/network/)
 
 Для установки и запуска приложения на вашем локальном компьютере выполните следующие шаги:
 
